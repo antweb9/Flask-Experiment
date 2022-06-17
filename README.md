@@ -1,2 +1,2 @@
 # Flask-Experiment
-An experiment with Flask, Nginx, GUnicorn, Let's Encrypt &amp; PostgreSQL
+An experiment with Flask, Docker, Nginx, GUnicorn, Let's Encrypt, DigitalOcean &amp; PostgreSQL
